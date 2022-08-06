@@ -1,16 +1,19 @@
-# 🚧 README em construção 🚧
+# Projeto Algorithms
+  Esse projeto foi desenvolvido no curso da Trybe, no módulo de Ciência da Computação.
 
-<!-- Olá, Tryber!
+  Esse projeto tem como objetivo exercitar a lógica de programação e desenvolver a capacidade de implementar soluções eficientes utilizando diferentes tipos de complexidades de algoritmos.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+---
 
-É essencial que você preencha esse documento por conta própria, ok?
+### Habilidades desenvolvidas
+- Lógica de programação
+- Utilizar conceitos de complexidades de algoritmos
+- Capacidade de interpretação de problemas
+- Capacidade de interpretação de um código legado
+- Capacidade de otimizar a resolução de problemas
+- Resolver problemas/Otimizar algoritmos sob pressão
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+---
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+### Tecnologias utilizadas
+- Python
