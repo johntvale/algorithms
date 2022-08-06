@@ -2,6 +2,8 @@
   Esse projeto foi desenvolvido no curso da Trybe, no módulo de Ciência da Computação.
 
   Esse projeto tem como objetivo exercitar a lógica de programação e desenvolver a capacidade de implementar soluções eficientes utilizando diferentes tipos de complexidades de algoritmos.
+  
+  As soluções criadas estão no diretório `/challenges` .
 
 ---
 
